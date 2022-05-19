@@ -23,7 +23,6 @@ def printBoard(board, char):
 player1 = [ [0]*boardSize for i in range(boardSize)]
 player2 = [ [0]*boardSize for i in range(boardSize)]
 
-print("copyright wiktorpp")
 while True:
     print(" 012")
     for i in range(boardSize):
